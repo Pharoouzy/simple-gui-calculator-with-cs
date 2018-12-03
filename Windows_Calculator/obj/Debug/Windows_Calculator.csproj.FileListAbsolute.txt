@@ -1,0 +1,18 @@
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.exe.config
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.exe
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.pdb
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csprojResolveAssemblyReference.cache
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.Properties.Resources.resources
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csproj.GenerateResource.Cache
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.exe
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.pdb
+c:\users\pharoouzy\documents\visual studio 2015\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.Calculator.resources
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.exe.config
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.exe
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.pdb
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.exe
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\bin\Debug\Windows_Calculator.pdb
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.Calculator.resources
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.Properties.Resources.resources
+C:\Users\Pharoouzy\Documents\Visual Studio 2015 Former Project\Projects\Windows_Calculator\Windows_Calculator\obj\Debug\Windows_Calculator.csproj.GenerateResource.Cache
